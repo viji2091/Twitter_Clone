@@ -1,5 +1,5 @@
 # Project Name
-Twitter_Clone
+Twitter Clone
 ## Description  
 A UI clone of Twitter
 
@@ -10,7 +10,7 @@ To install the necessary dependencies, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/viji2091/Twitter_Clone.git
     ```
 
 2. **Navigate to the project directory**:
@@ -31,9 +31,6 @@ To install the necessary dependencies, follow these steps:
     npm install tailwindcss
     ```
 
-## Usage
-
-Instructions on how to use your project.
 
 ## Using Tailwind CSS
 
